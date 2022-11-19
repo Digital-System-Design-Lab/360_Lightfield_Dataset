@@ -1,4 +1,4 @@
-# 360_lightfield_data
+# 360_Lightfield_Dataset
 
 
 This repository contains the 360 light field dataset and its description.
