@@ -9,7 +9,7 @@ This is an ongoing project, and some parts will be updated later.
 
 
 ## Changelog
-[2022-11-15 ] Release raw dataset and descriptions   
+[2022-11-19] Release some parts of dataset and descriptions   
 
 
 ## 0. Demo
